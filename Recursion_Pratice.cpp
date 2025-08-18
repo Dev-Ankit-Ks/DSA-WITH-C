@@ -43,3 +43,36 @@ using namespace std;
 
 //     revString(name , n);
 // }
+
+
+
+
+// bool isPalindrome(string word , int start , int end){
+//     if(start>=end){
+//         return true;
+//     }
+//     if(word[start] != word[end]){
+//         return false;
+//     }
+//     return isPalindrome(word , start + 1 , end - 1);
+// }
+
+
+
+// int main(){
+//     string word = "racecar";
+//     int end = word.size() -1;
+//     cout<<isPalindrome(word ,0, end);
+// }
+
+
+
+// int main(){
+//     int arr[] = {1,2,3,5,9};
+//     int size = 4;
+//     cout<<substr(arr , size , 0);
+// }
+
+
+
+
